@@ -1,12 +1,79 @@
-MetaClassroom is a programming learning world based on virtual metaverse technology, designed to introduce students to fundamental programming knowledge. The design of this 3D virtual learning world stems from a reflection on traditional teaching methods and a vision for the future of education. The goal is for learners to study in a virtual metaverse environment, where they can independently choose learning materials and resources, allocate their study time wisely, and engage in a blend of learning and play.
-The main features of this metaverse learning world include: (1) A knowledge corridor for free-form learning; (2) A collection of multimedia learning resources; (3) Educational games to support teaching; (4) E-textbooks for self-directed learning; (5) Virtual classrooms and instructors; (6) A website bookshelf curating quality online learning resources; (7) A memory tree to reinforce foundational knowledge; (8) A data dashboard tracking learning progress.
-![image](https://github.com/user-attachments/assets/083f6c2f-eeff-49c6-9cd0-636619d5a94e)
-The learning world is divided into different learning zones: the Knowledge Corridor, Video Learning Area, Game Teaching Zone, Textbook Library, Hotspot Word Cloud Zone, Virtual Classroom, Website Bookshelf, Knowledge Graph Memory Zone, Data Dashboard, and more. The following sections will introduce the entire educational metaverse world through these different zones.
-The Knowledge Corridor serves as a key place for free browsing and selecting learning content in the 3D virtual learning world. The walls display key knowledge points from various information technology disciplines, covering a wide range of topics and concepts, including but not limited to programming languages, data structures, and network technologies. This diverse presentation offers learners abundant resources and a wide range of choices.
-The Video Learning Area provides multimedia learning resources for students. The video-based learning method can present abstract and complex concepts like data structures in an intuitive manner, allowing students to better understand the principles and applications of programming languages in a more straightforward and concrete way.
-The Game Learning Zone features multiple educational games designed around programming. These games offer an interactive and entertaining way for students to learn. By participating in these games, students can make the learning process more engaging, stimulating, and challenging, which in turn sparks their interest in learning.
-The Textbook Library is designed to provide learners with the necessary e-textbooks to support self-directed learning and exploration. It houses a collection of standard textbooks required for high school information technology courses, covering various topics and concepts related to the field.
-![image](https://github.com/user-attachments/assets/a335b543-0aee-4aec-a904-f9a82f20cacf)
-The Virtual Classroom provides a digital platform where teachers can conduct lessons, demonstrations, or discussions through virtual live broadcasts, eliminating the need for on-site teaching and offering a more flexible learning environment. Students can enter the virtual classroom according to the course schedule and participate in lessons through the virtual platform.
-![image](https://github.com/user-attachments/assets/ad871a71-f878-432c-92df-bf9e52800f02)
 
+## MateClassroom
+
+**MetaClassroom** is a virtual learning environment designed to introduce students to fundamental programming concepts through an immersive metaverse experience.
+
+## Features
+
+- **Knowledge Corridor**: Browse and select key concepts from information technology disciplines.
+- **Multimedia Resources**: Access video tutorials to simplify complex programming topics.
+- **Educational Games**: Interactive games designed to reinforce learning through play.
+- **E-Textbooks**: A digital library providing resources for self-paced learning.
+- **Virtual Classrooms**: Participate in live or recorded lessons from virtual instructors.
+- **Website Bookshelf**: Curated online learning resources.
+- **Memory Tree**: Visualize and reinforce foundational knowledge.
+- **Data Dashboard**: Track your learning progress in real time.
+
+![image](https://github.com/user-attachments/assets/083f6c2f-eeff-49c6-9cd0-636619d5a94e)
+
+## Learning Zones
+
+MetaClassroom is divided into several distinct areas, each tailored to enhance learning:
+
+1. **Knowledge Corridor**: A free-form learning space with an array of programming languages, data structures, and network technology knowledge points.
+   
+2. **Video Learning Area**: A multimedia section to provide clear explanations of complex programming concepts.
+
+3. **Game Learning Zone**: Engaging games focused on key programming principles.
+
+4. **Textbook Library**: E-textbooks covering essential high school IT topics.
+
+5. **Virtual Classroom**: Interactive lessons and live virtual teaching sessions.
+
+![image](https://github.com/user-attachments/assets/1cdffc3a-5fc0-4735-ab5e-a5e3e16bc73a)
+
+6. **Website Bookshelf**: A collection of quality online resources.
+![image](https://github.com/user-attachments/assets/f5277762-d0b0-40f3-93b6-3d48d16fdd48)
+
+8. **Knowledge Graph Memory Zone**: Visual tools for reinforcing programming concepts.
+   
+9. **Data Dashboard**: A real-time display of your learning progress and achievements.
+
+![image](https://github.com/user-attachments/assets/51a501b8-3e0a-4e2d-bdaa-f4968786768d)
+
+![image](https://github.com/user-attachments/assets/cbdeb6c1-45c3-4cfd-b6b6-911764c02ba1)
+
+## Deployment and Running the Project
+
+To deploy and run the 3D web-based MetaClassroom, follow these steps:
+
+### 1. Node.js Environment Setup
+Make sure you have Node.js installed. If not, download and install it from [Node.js official website](https://nodejs.org/).
+
+### 2. Babylon.js Setup
+The 3D environment of MetaClassroom is built using **Babylon.js**. To set up the Babylon.js environment:
+
+```bash
+npm install babylonjs
+```
+
+### 3. Run the Application
+1. Right-click on `main.js` in your project directory.
+2. Select **"Open in Integrated Terminal"**.
+3. Run the following command to start the server:
+
+```bash
+node main.js
+```
+### 4. Access the Application
+Open your browser and go to `http://localhost:3000` to access the MetaClassroom 3D learning environment.
+
+## Technologies
+-Virtual Metaverse Framework
+-3D Learning Environment (Babylon.js)
+-Node.js
+-Multimedia Content Integration
+-Data Analytics Dashboard
+
+## Contribution
+We welcome contributions! Feel free to submit pull requests or report issues via GitHub.
