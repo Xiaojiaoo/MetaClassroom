@@ -1,5 +1,5 @@
 
-## MateClassroom
+## MataClassroom
 
 **MetaClassroom** is a virtual learning environment designed to introduce students to fundamental programming concepts through an immersive metaverse experience.
 
