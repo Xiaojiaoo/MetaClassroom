@@ -76,4 +76,4 @@ Open your browser and go to `http://localhost:3000` to access the MetaClassroom 
 -Data Analytics Dashboard
 
 ## Contribution
-We welcome contributions! Feel free to submit pull requests or report issues via GitHub.
+We welcome contributions! Feel free to submit pull requests or report issues via GitHub!
